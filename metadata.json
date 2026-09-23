@@ -1,0 +1,6 @@
+{
+  "name": "DueProcess Lens",
+  "description": "AI transparency auditor for institutional and automated rejection decisions. Identifies missing reasons, evidence, rules, deadlines, and generates evidence-gathering action checklists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
